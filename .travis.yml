@@ -1,5 +1,5 @@
 language: c
 compiler: gcc
 os: linux
-script: make
+script: make && make test.exe
 
